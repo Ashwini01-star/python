@@ -1,1 +1,1 @@
-# pythons programs
+# College-Event-Management-System
